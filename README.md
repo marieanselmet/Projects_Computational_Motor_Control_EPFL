@@ -1,7 +1,7 @@
 # Projects for the EPFL Computation Motor Control course
 
 
-- Lab 5 & Lab 6: simulation of a muscle with a pendulum system.
+- Lab 5 & 6: simulation of a muscle with a pendulum system.
 - Lab 8: simulation of a salamander robot from a network of coupled oscillators to model locomotion and explain gait transitions.
 
 
